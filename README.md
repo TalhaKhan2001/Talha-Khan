@@ -1,4 +1,4 @@
-![logo](https://github.com/TalhaKhan2001/Talha-Khan/blob/main/Bnner.png)
+![logo](https://github.com/TalhaKhan2001/Talha-Khan/blob/main/banner.png)
 <h1 align="center">Hey Welcome to my Society 👋, I'm Talha Khan</h1>
 <h3 align="center">I am an IT student, And CEO of JSociety community, Now Learning Penetration testing,and Cyber Experties.</h3>
 
